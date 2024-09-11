@@ -13,9 +13,9 @@
         <h1>Conversão de Temp</h1>
         <br>
         <label>Coloque a temperatura</label>
-        <input type="number" name="temp">
+        <input type="number" name="temp" step="0.01">
         <br>
-        <button type="submit" name="conversao">Converter</button>
+        <button type="submit" name="conversao" >Converter</button>
     </form>
 
     <div>
